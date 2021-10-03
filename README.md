@@ -11,7 +11,7 @@
 
 ## Technologies
 
-- Create ML App
+- Create ML
 
 ## Contributing
 
