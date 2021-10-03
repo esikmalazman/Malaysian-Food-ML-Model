@@ -9,7 +9,7 @@
 - Contains 10 type of food with 20 items each categories
 - Model accuracy 87%
 
-## Tools
+## Technologies
 
 - Create ML App
 
